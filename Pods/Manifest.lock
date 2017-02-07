@@ -1,0 +1,12 @@
+PODS:
+  - Rollout.io (1.11.0)
+
+DEPENDENCIES:
+  - Rollout.io (= 1.11.0)
+
+SPEC CHECKSUMS:
+  Rollout.io: 95bc47c579c8ed7136719758573de8d0a6c715dd
+
+PODFILE CHECKSUM: 4e8448d7c63fbf36bb521a38cb2f1991573800ac
+
+COCOAPODS: 1.0.1
